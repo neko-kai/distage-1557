@@ -1,0 +1,4 @@
+<included>
+    <logger name="terminating-role" level="INFO"/>
+    <logger name="stuck-role" level="INFO"/>
+</included>
